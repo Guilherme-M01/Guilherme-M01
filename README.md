@@ -1,48 +1,48 @@
-# 👋 Olá, eu sou Guilherme
+# 👋 Hello, I'm Guilherme
 
-🎓 Estudante de Técnico em Mecânica
-🤖 Focado em Automação, Robótica e Projeto Mecânico
-
----
-
-## 🚀 Sobre Mim
-Atualmente estou estudando Tecnologia em Engenharia Mecânica, com grande interesse em automação e robótica.
-
-Gosto de desenvolver projetos práticos que integrem mecânica, eletrônica e programação.
+🎓 Mechanical Technician Student  
+🤖 Focused on Automation, Robotics and Mechanical Design  
 
 ---
 
-## 🛠️ Habilidades Técnicas
-- Projeto Mecânico (CAD)
-- Usinagem CNC (Mastercam)
-- Corte a Laser (Due Studio)
-- Arduino e Sistemas Embarcados
-- Lógica de Programação Básica
+## 🚀 About Me
+I'm currently studying Mechanical Engineering Technology, with a strong interest in automation and robotics.
+
+I enjoy developing practical projects that integrate mechanics, electronics and programming.
 
 ---
 
-## 📂 Projetos
-- 🎮 Jogo RPG Baseado em Texto
-- 🤖 Projetos de Automação (Arduino / ESP32)
-- ⚙️ CAD e Projeto Mecânico
-- 🛠️ Projetos de Usinagem CNC
+## 🛠️ Technical Skills
+- Mechanical Design (CAD)
+- CNC Machining (Mastercam)
+- Laser Cutting (Due Studio)
+- Arduino & Embedded Systems
+- Basic Programming Logic
 
 ---
 
-## 📚 Atualmente Aprendendo
-- ESP32 e Sistemas IoT
-- Programação Embarcada
-- Sistemas de Automação
+## 📂 Projects
+- 🎮 Text-Based RPG Game  
+- 🤖 Automation Projects (Arduino / ESP32)  
+- ⚙️ CAD and Mechanical Design  
+- 🛠️ CNC Machining Projects  
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Guilherme-M01&show_icons=true)
+## 📚 Currently Learning
+- ESP32 and IoT Systems  
+- Embedded Programming  
+- Automation Systems  
 
 ---
 
-## ⚡ Foco
-Desenvolvendo soluções do mundo real combinando mecânica e automação.
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-M01&show_icons=true)
+
+---
+
+## ⚡ Focus
+Developing real-world solutions combining mechanics and automation.
 
 ## 🧰 Tools & Technologies
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
